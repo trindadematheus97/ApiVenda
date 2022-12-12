@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiVenda", "ApiVenda\ApiVenda.csproj", "{19DDEFF5-9545-494A-AB29-8419B531E4A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DDEFF5-9545-494A-AB29-8419B531E4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DDEFF5-9545-494A-AB29-8419B531E4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DDEFF5-9545-494A-AB29-8419B531E4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DDEFF5-9545-494A-AB29-8419B531E4A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C93FD694-C709-4B50-B27D-913BC47B274A}
+	EndGlobalSection
+EndGlobal
